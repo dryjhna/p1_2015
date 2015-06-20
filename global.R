@@ -1,0 +1,6 @@
+library(shiny)
+library(plyr)
+library(ggplot2)
+library(shinythemes)
+library(DT)
+library(datasets)
